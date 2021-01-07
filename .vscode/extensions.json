@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "alefragnani.bookmarks",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "ecmel.vscode-html-css",
+    "esbenp.prettier-vscode",
+    "file-icons.file-icons",
+    "humao.rest-client",
+    "jock.svg",
+    "mkaufman.HTMLHint",
+    "mrmlnc.vscode-scss",
+    "solnurkarim.html-to-css-autocompletion",
+    "stylelint.vscode-stylelint",
+    "tomoki1207.selectline-statusbar"
+  ]
+}
