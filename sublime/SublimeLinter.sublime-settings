@@ -1,0 +1,15 @@
+// SublimeLinter Settings - User
+{
+    "styles": [
+        {
+            "scope": "region.redish",
+            "types": ["warning"]
+        },
+        {
+            "priority": 1,
+            "icon": "dot",
+            "mark_style": "squiggly_underline",
+            "scope": "region.redish"
+        }
+    ]
+}
