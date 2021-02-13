@@ -1,0 +1,15 @@
+{
+    "search_threshold": 50000,
+    "bracket_styles": {
+        "default": {
+            "icon": "none",
+            "color": "brackethighlighter",
+            "style": "highlight"
+        },
+        "unmatched": {
+            "icon": "none",
+            "color": "invalid.deprecated",
+            "style": "highlight"
+        }
+    }
+}
