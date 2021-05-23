@@ -3,17 +3,17 @@
     "alefragnani.bookmarks",
     "dbaeumer.vscode-eslint",
     "donjayamanne.githistory",
+    "dsznajder.es7-react-js-snippets",
     "ecmel.vscode-html-css",
     "esbenp.prettier-vscode",
+    "file-icons.file-icons",
     "jock.svg",
     "mkaufman.HTMLHint",
     "mrmlnc.vscode-scss",
     "ms-azuretools.vscode-docker",
     "naumovs.color-highlight",
-    "pkief.material-icon-theme",
     "solnurkarim.html-to-css-autocompletion",
     "stylelint.vscode-stylelint",
-    "tomoki1207.selectline-statusbar",
-    "zhuangtongfa.material-theme"
+    "tomoki1207.selectline-statusbar"
   ]
 }
